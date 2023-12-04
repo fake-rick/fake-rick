@@ -1,4 +1,4 @@
-### Hi there 👋，I'm FakeRick
+### Hi there 👋，I'm FakeRick and I am a freelancer👾
 
 ---
 
