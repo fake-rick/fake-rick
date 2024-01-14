@@ -6,4 +6,4 @@
 
 <div><img src="https://github-readme-stats.vercel.app/api?username=fake-rick&show_icons=true" /></div>
 
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fake-rick&show_icons=true" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fake-rick&show_icons=true" /></div>
